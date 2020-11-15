@@ -1,0 +1,15 @@
+body{
+  text-align: center;
+  background-color: pink;
+  color: purple;  
+}
+
+button{
+    color: rebeccapurple;
+    background-color: red;
+}
+
+img{
+  width: 725px;
+  height: 610px;
+}
